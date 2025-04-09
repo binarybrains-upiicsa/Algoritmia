@@ -1,1 +1,1 @@
-# -Algoritmia
+# Algoritmia
