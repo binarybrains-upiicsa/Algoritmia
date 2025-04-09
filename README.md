@@ -14,7 +14,7 @@ Nuestro objetivo será prepararnos para el <a href="https://icpc.global/">ICPC</
  
   <a href="https://www.instagram.com/mae_mazcort/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
-
+<a href="https://www.youtube.com/watch?v=xcbQ9yLuM9o&t=120s"><img width="30%" src="https://img.youtube.com/vi/xcbQ9yLuM9o/mqdefault.jpg"/></a>
 
 
 ## Páginas para resolver 
